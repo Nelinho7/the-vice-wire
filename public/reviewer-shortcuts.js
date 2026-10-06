@@ -1,0 +1,1 @@
+export function shortcutAction(event){if(event.ctrlKey||event.metaKey||event.altKey||event.repeat)return null;const target=event.target;if(target?.isContentEditable||target?.closest?.('input,textarea,select,[contenteditable="true"],dialog'))return null;return{a:'APPROVE',e:'EDIT',c:'NEEDS_CONFIRMATION',r:'REJECT',n:'NEXT'}[event.key?.toLowerCase()]??null;}

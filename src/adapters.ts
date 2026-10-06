@@ -5,3 +5,6 @@ export { RedditAdapter } from './reddit.ts';
 export interface SourceAdapter { name:string; fetchItems():Promise<SourceItem[]> }
 export class FixtureAdapter implements SourceAdapter {name='fixture';async fetchItems(){return fixtures.map(f=>structuredClone(f.source));}}
 export function sourceAdapter():SourceAdapter {const mode=process.env.SOURCE_MODE??'fixture';if(mode==='fixture')return new FixtureAdapter();if(mode==='reddit')return new RedditAdapter();throw Error('Unknown SOURCE_MODE');}
+
+export { TwitchAdapter } from './twitch.ts';
+export { WebSourceAdapter } from './web.ts';

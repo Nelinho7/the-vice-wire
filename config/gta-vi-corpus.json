@@ -1,0 +1,1619 @@
+{
+  "id": "gta-vi-october-2026-v1",
+  "checkedAt": "2026-10-05T06:00:00.000Z",
+  "method": "Bounded permitted web research with explicitly labelled factual paraphrase notes, followed by deterministic recorded editorial extraction through the unchanged pipeline. No external LLM calls. Source pages are not mirrored.",
+  "sources": [
+    {
+      "key": "rockstar-current",
+      "title": "Rockstar GTA VI — current announcement and story",
+      "url": "https://www.rockstargames.com/VI",
+      "publishedAt": null,
+      "evidenceType": "OFFICIAL",
+      "author": "Rockstar Games",
+      "context": "Current official landing-page text checked 2026-10-05. Undated page timestamp is the observation date, not a claimed original publication date; story details remain pre-release.",
+      "upstream": null,
+      "claims": [
+        {
+          "key": "rockstar-current-1",
+          "topic": "release",
+          "category": "other",
+          "claim": "GTA VI is scheduled for November 19, 2026.",
+          "entities": [
+            "GTA VI"
+          ],
+          "kind": "FACT",
+          "usefulness": 5,
+          "importance": 5,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current official landing-page text checked 2026-10-05. Undated page timestamp is the observation date, not a claimed original publication date; story details remain pre-release.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-current-2",
+          "topic": "platforms",
+          "category": "other",
+          "claim": "GTA VI lists PlayStation 5 as a launch platform.",
+          "entities": [
+            "GTA VI",
+            "PlayStation 5"
+          ],
+          "kind": "FACT",
+          "usefulness": 5,
+          "importance": 5,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current official landing-page text checked 2026-10-05. Undated page timestamp is the observation date, not a claimed original publication date; story details remain pre-release.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-current-3",
+          "topic": "platforms",
+          "category": "other",
+          "claim": "GTA VI lists Xbox Series X|S as launch platforms.",
+          "entities": [
+            "GTA VI",
+            "Xbox Series X|S"
+          ],
+          "kind": "FACT",
+          "usefulness": 5,
+          "importance": 5,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current official landing-page text checked 2026-10-05. Undated page timestamp is the observation date, not a claimed original publication date; story details remain pre-release.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-current-4",
+          "topic": "world",
+          "category": "location",
+          "claim": "Leonida is the state containing Vice City in GTA VI.",
+          "entities": [
+            "Leonida",
+            "Vice City"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current official landing-page text checked 2026-10-05. Undated page timestamp is the observation date, not a claimed original publication date; story details remain pre-release.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-current-5",
+          "topic": "story",
+          "category": "mission",
+          "claim": "An unsuccessful score draws Jason and Lucia into a criminal conspiracy across Leonida.",
+          "entities": [
+            "Jason Duval",
+            "Lucia Caminos",
+            "Leonida"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current official landing-page text checked 2026-10-05. Undated page timestamp is the observation date, not a claimed original publication date; story details remain pre-release.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-current-6",
+          "topic": "release",
+          "category": "other",
+          "claim": "Rockstar announced the GTA VI Extended Look on August 27, 2026.",
+          "entities": [
+            "GTA VI",
+            "Extended Look"
+          ],
+          "kind": "FACT",
+          "usefulness": 3,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current official landing-page text checked 2026-10-05. Undated page timestamp is the observation date, not a claimed original publication date; story details remain pre-release.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-current-7",
+          "topic": "world",
+          "category": "other",
+          "claim": "Rockstar lists a GTA VI album with 34 original tracks.",
+          "entities": [
+            "GTA VI",
+            "GTA VI album"
+          ],
+          "kind": "FACT",
+          "usefulness": 3,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current official landing-page text checked 2026-10-05. Undated page timestamp is the observation date, not a claimed original publication date; story details remain pre-release.",
+          "searchTerms": []
+        }
+      ]
+    },
+    {
+      "key": "rockstar-people",
+      "title": "Rockstar — Only in Leonida",
+      "url": "https://www.rockstargames.com/VI/only-in-leonida",
+      "publishedAt": "2025-05-06",
+      "evidenceType": "OFFICIAL",
+      "author": "Rockstar Games",
+      "context": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+      "upstream": null,
+      "claims": [
+        {
+          "key": "rockstar-people-1",
+          "topic": "characters",
+          "category": "other",
+          "claim": "Jason Duval served in the Army.",
+          "entities": [
+            "Jason Duval"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-2",
+          "topic": "characters",
+          "category": "other",
+          "claim": "Jason Duval works with drug runners in the Keys.",
+          "entities": [
+            "Jason Duval",
+            "Leonida Keys"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-3",
+          "topic": "characters",
+          "category": "other",
+          "claim": "Lucia Caminos was imprisoned in Leonida Penitentiary.",
+          "entities": [
+            "Lucia Caminos",
+            "Leonida Penitentiary"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-4",
+          "topic": "characters",
+          "category": "other",
+          "claim": "Lucia Caminos is newly released from prison in her character introduction.",
+          "entities": [
+            "Lucia Caminos"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-5",
+          "topic": "characters",
+          "category": "other",
+          "claim": "Lucia Caminos and her mother previously lived in Liberty City.",
+          "entities": [
+            "Lucia Caminos",
+            "Liberty City"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-6",
+          "topic": "characters",
+          "category": "other",
+          "claim": "Cal Hampton is Jason’s friend.",
+          "entities": [
+            "Cal Hampton",
+            "Jason Duval"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-7",
+          "topic": "characters",
+          "category": "other",
+          "claim": "Boobie Ike owns a recording studio in Vice City.",
+          "entities": [
+            "Boobie Ike",
+            "Vice City"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-8",
+          "topic": "businesses",
+          "category": "business",
+          "claim": "Boobie Ike and Dre’Quan Priest partner in Only Raw Records.",
+          "entities": [
+            "Boobie Ike",
+            "Dre’Quan Priest",
+            "Only Raw Records"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-9",
+          "topic": "characters",
+          "category": "other",
+          "claim": "Dre’Quan Priest signed the rap duo Real Dimez.",
+          "entities": [
+            "Dre’Quan Priest",
+            "Real Dimez"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-10",
+          "topic": "characters",
+          "category": "other",
+          "claim": "Bae-Luxe and Roxy perform together as Real Dimez.",
+          "entities": [
+            "Bae-Luxe",
+            "Roxy",
+            "Real Dimez"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-11",
+          "topic": "characters",
+          "category": "other",
+          "claim": "Raul Bautista recruits talent for bank robberies.",
+          "entities": [
+            "Raul Bautista"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-12",
+          "topic": "characters",
+          "category": "other",
+          "claim": "Brian Heder runs drugs through his boat yard.",
+          "entities": [
+            "Brian Heder"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-13",
+          "topic": "characters",
+          "category": "other",
+          "claim": "Brian Heder houses Jason in exchange for local shakedowns.",
+          "entities": [
+            "Brian Heder",
+            "Jason Duval"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-14",
+          "topic": "world",
+          "category": "location",
+          "claim": "Rockstar names Vice City as a GTA VI destination.",
+          "entities": [
+            "Vice City"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-15",
+          "topic": "world",
+          "category": "location",
+          "claim": "Rockstar names Leonida Keys as a GTA VI destination.",
+          "entities": [
+            "Leonida Keys"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-16",
+          "topic": "world",
+          "category": "location",
+          "claim": "Rockstar names Grassrivers as a GTA VI destination.",
+          "entities": [
+            "Grassrivers"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-17",
+          "topic": "world",
+          "category": "location",
+          "claim": "Rockstar names Port Gellhorn as a GTA VI destination.",
+          "entities": [
+            "Port Gellhorn"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-18",
+          "topic": "world",
+          "category": "location",
+          "claim": "Rockstar names Ambrosia as a GTA VI destination.",
+          "entities": [
+            "Ambrosia"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-people-19",
+          "topic": "world",
+          "category": "location",
+          "claim": "Rockstar names Mount Kalaga as a GTA VI destination.",
+          "entities": [
+            "Mount Kalaga"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries.",
+          "searchTerms": []
+        }
+      ]
+    },
+    {
+      "key": "playstation",
+      "title": "PlayStation — GTA VI first-party platform details",
+      "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "publishedAt": null,
+      "evidenceType": "OFFICIAL",
+      "author": "PlayStation",
+      "context": "Current first-party product/features listing checked 2026-10-05; platform-specific pre-release descriptions. No frame-rate, PC date or final performance guarantees inferred.",
+      "upstream": "https://www.rockstargames.com/VI",
+      "claims": [
+        {
+          "key": "playstation-1",
+          "topic": "platforms",
+          "category": "other",
+          "claim": "GTA VI lists PlayStation 5 as a launch platform.",
+          "entities": [
+            "GTA VI",
+            "PlayStation 5"
+          ],
+          "kind": "FACT",
+          "usefulness": 5,
+          "importance": 5,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current first-party product/features listing checked 2026-10-05; platform-specific pre-release descriptions. No frame-rate, PC date or final performance guarantees inferred.",
+          "searchTerms": []
+        },
+        {
+          "key": "playstation-2",
+          "topic": "platforms",
+          "category": "other",
+          "claim": "PlayStation says GTA VI cannot be played on PS4.",
+          "entities": [
+            "GTA VI",
+            "PS4"
+          ],
+          "kind": "FACT",
+          "usefulness": 5,
+          "importance": 5,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current first-party product/features listing checked 2026-10-05; platform-specific pre-release descriptions. No frame-rate, PC date or final performance guarantees inferred.",
+          "searchTerms": []
+        },
+        {
+          "key": "playstation-3",
+          "topic": "platforms",
+          "category": "other",
+          "claim": "The PS5 listing enables offline play for GTA VI.",
+          "entities": [
+            "GTA VI",
+            "PlayStation 5"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current first-party product/features listing checked 2026-10-05; platform-specific pre-release descriptions. No frame-rate, PC date or final performance guarantees inferred.",
+          "searchTerms": []
+        },
+        {
+          "key": "playstation-4",
+          "topic": "platforms",
+          "category": "other",
+          "claim": "The PS5 listing supports Remote Play for GTA VI.",
+          "entities": [
+            "GTA VI",
+            "PlayStation 5"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current first-party product/features listing checked 2026-10-05; platform-specific pre-release descriptions. No frame-rate, PC date or final performance guarantees inferred.",
+          "searchTerms": []
+        },
+        {
+          "key": "playstation-5",
+          "topic": "platforms",
+          "category": "other",
+          "claim": "PS5 Pro Enhanced is listed for GTA VI.",
+          "entities": [
+            "GTA VI",
+            "PS5 Pro"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current first-party product/features listing checked 2026-10-05; platform-specific pre-release descriptions. No frame-rate, PC date or final performance guarantees inferred.",
+          "searchTerms": []
+        },
+        {
+          "key": "playstation-6",
+          "topic": "platforms",
+          "category": "other",
+          "claim": "PS5 GTA VI supports DualSense haptic feedback.",
+          "entities": [
+            "GTA VI",
+            "DualSense"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current first-party product/features listing checked 2026-10-05; platform-specific pre-release descriptions. No frame-rate, PC date or final performance guarantees inferred.",
+          "searchTerms": []
+        },
+        {
+          "key": "playstation-7",
+          "topic": "platforms",
+          "category": "other",
+          "claim": "PS5 GTA VI supports adaptive trigger resistance.",
+          "entities": [
+            "GTA VI",
+            "DualSense"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current first-party product/features listing checked 2026-10-05; platform-specific pre-release descriptions. No frame-rate, PC date or final performance guarantees inferred.",
+          "searchTerms": []
+        },
+        {
+          "key": "playstation-8",
+          "topic": "platforms",
+          "category": "other",
+          "claim": "PS5 GTA VI lists Tempest 3D Audio positioning.",
+          "entities": [
+            "GTA VI",
+            "Tempest 3D Audio"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current first-party product/features listing checked 2026-10-05; platform-specific pre-release descriptions. No frame-rate, PC date or final performance guarantees inferred.",
+          "searchTerms": []
+        },
+        {
+          "key": "playstation-9",
+          "topic": "platforms",
+          "category": "other",
+          "claim": "PlayStation describes the Extended Look as in-game PS5 footage.",
+          "entities": [
+            "GTA VI",
+            "Extended Look",
+            "PlayStation 5"
+          ],
+          "kind": "FACT",
+          "usefulness": 3,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Current first-party product/features listing checked 2026-10-05; platform-specific pre-release descriptions. No frame-rate, PC date or final performance guarantees inferred.",
+          "searchTerms": []
+        }
+      ]
+    },
+    {
+      "key": "rockstar-gallery",
+      "title": "Rockstar — official GTA VI gallery captions",
+      "url": "https://www.rockstargames.com/VI/media/screenshots",
+      "publishedAt": null,
+      "evidenceType": "OFFICIAL_FOOTAGE",
+      "author": "Rockstar Games",
+      "context": "Official caption text only, checked 2026-10-05. Several entries are grouped under Ultimate Edition Benefits: presence in the gallery does not establish universal access, spawn locations, ownership or pricing. No image or video downloaded.",
+      "upstream": null,
+      "claims": [
+        {
+          "key": "rockstar-gallery-1",
+          "topic": "vehicles",
+          "category": "vehicle",
+          "claim": "Rockstar’s GTA VI gallery names the ’95 Grotti Cheetah.",
+          "entities": [
+            "Grotti Cheetah"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official caption text only, checked 2026-10-05. Several entries are grouped under Ultimate Edition Benefits: presence in the gallery does not establish universal access, spawn locations, ownership or pricing. No image or video downloaded.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-gallery-2",
+          "topic": "vehicles",
+          "category": "vehicle",
+          "claim": "Rockstar’s GTA VI gallery names the Dinka Enduro motorcycle.",
+          "entities": [
+            "Dinka Enduro"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official caption text only, checked 2026-10-05. Several entries are grouped under Ultimate Edition Benefits: presence in the gallery does not establish universal access, spawn locations, ownership or pricing. No image or video downloaded.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-gallery-3",
+          "topic": "vehicles",
+          "category": "vehicle",
+          "claim": "Rockstar’s GTA VI gallery names the Crest Kayak.",
+          "entities": [
+            "Crest Kayak"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official caption text only, checked 2026-10-05. Several entries are grouped under Ultimate Edition Benefits: presence in the gallery does not establish universal access, spawn locations, ownership or pricing. No image or video downloaded.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-gallery-4",
+          "topic": "vehicles",
+          "category": "vehicle",
+          "claim": "Rockstar’s GTA VI gallery names the Shitzu Squalo.",
+          "entities": [
+            "Shitzu Squalo"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official caption text only, checked 2026-10-05. Several entries are grouped under Ultimate Edition Benefits: presence in the gallery does not establish universal access, spawn locations, ownership or pricing. No image or video downloaded.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-gallery-5",
+          "topic": "vehicles",
+          "category": "vehicle",
+          "claim": "Rockstar’s GTA VI gallery names the ’67 Vapid Dominator Buggy.",
+          "entities": [
+            "Vapid Dominator Buggy"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official caption text only, checked 2026-10-05. Several entries are grouped under Ultimate Edition Benefits: presence in the gallery does not establish universal access, spawn locations, ownership or pricing. No image or video downloaded.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-gallery-6",
+          "topic": "weapons",
+          "category": "weapon",
+          "claim": "Rockstar’s GTA VI gallery names Hawk & Little Morgan revolvers.",
+          "entities": [
+            "Hawk & Little Morgan"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official caption text only, checked 2026-10-05. Several entries are grouped under Ultimate Edition Benefits: presence in the gallery does not establish universal access, spawn locations, ownership or pricing. No image or video downloaded.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-gallery-7",
+          "topic": "businesses",
+          "category": "business",
+          "claim": "Rockstar’s GTA VI gallery names Rideout Customs Mod Shop.",
+          "entities": [
+            "Rideout Customs"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official caption text only, checked 2026-10-05. Several entries are grouped under Ultimate Edition Benefits: presence in the gallery does not establish universal access, spawn locations, ownership or pricing. No image or video downloaded.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-gallery-8",
+          "topic": "businesses",
+          "category": "business",
+          "claim": "Rockstar’s GTA VI gallery names Sara’s Unisex Salon.",
+          "entities": [
+            "Sara’s Unisex Salon"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official caption text only, checked 2026-10-05. Several entries are grouped under Ultimate Edition Benefits: presence in the gallery does not establish universal access, spawn locations, ownership or pricing. No image or video downloaded.",
+          "searchTerms": []
+        },
+        {
+          "key": "rockstar-gallery-9",
+          "topic": "businesses",
+          "category": "business",
+          "claim": "Rockstar’s GTA VI gallery names Stock 305 Clothing Store.",
+          "entities": [
+            "Stock 305"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Official caption text only, checked 2026-10-05. Several entries are grouped under Ultimate Edition Benefits: presence in the gallery does not establish universal access, spawn locations, ownership or pricing. No image or video downloaded.",
+          "searchTerms": []
+        }
+      ]
+    },
+    {
+      "key": "gi-wildlife",
+      "title": "Game Informer — GTA VI wildlife exclusive",
+      "url": "https://gameinformer.com/exclusive/2026/09/29/exclusive-grand-theft-auto-vi-includes-over-170-animal-species",
+      "publishedAt": "2026-09-29",
+      "evidenceType": "INDEPENDENT_ANALYSIS",
+      "author": "Marcus Stewart",
+      "context": "Public exclusive article based on Rockstar developer information, dated 2026-09-29. Factual attributed pre-release report; not player-tested. Full subscription cover story was not accessed or bypassed.",
+      "upstream": null,
+      "claims": [
+        {
+          "key": "gi-wildlife-1",
+          "topic": "world",
+          "category": "other",
+          "claim": "Game Informer reports over 170 animal species in GTA VI.",
+          "entities": [
+            "Leonida",
+            "Wildlife"
+          ],
+          "kind": "FACT",
+          "usefulness": 5,
+          "importance": 5,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Public exclusive article based on Rockstar developer information, dated 2026-09-29. Factual attributed pre-release report; not player-tested. Full subscription cover story was not accessed or bypassed.",
+          "searchTerms": []
+        },
+        {
+          "key": "gi-wildlife-2",
+          "topic": "world",
+          "category": "other",
+          "claim": "Game Informer reports native flamingos in Leonida’s wildlife.",
+          "entities": [
+            "Leonida",
+            "Flamingos"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Public exclusive article based on Rockstar developer information, dated 2026-09-29. Factual attributed pre-release report; not player-tested. Full subscription cover story was not accessed or bypassed.",
+          "searchTerms": []
+        },
+        {
+          "key": "gi-wildlife-3",
+          "topic": "world",
+          "category": "other",
+          "claim": "Game Informer reports manatees among Leonida’s animals.",
+          "entities": [
+            "Leonida",
+            "Manatees"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Public exclusive article based on Rockstar developer information, dated 2026-09-29. Factual attributed pre-release report; not player-tested. Full subscription cover story was not accessed or bypassed.",
+          "searchTerms": []
+        },
+        {
+          "key": "gi-wildlife-4",
+          "topic": "world",
+          "category": "other",
+          "claim": "Game Informer reports invasive rhesus macaques in Leonida.",
+          "entities": [
+            "Leonida",
+            "Rhesus macaques"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Public exclusive article based on Rockstar developer information, dated 2026-09-29. Factual attributed pre-release report; not player-tested. Full subscription cover story was not accessed or bypassed.",
+          "searchTerms": []
+        },
+        {
+          "key": "gi-wildlife-5",
+          "topic": "activities",
+          "category": "discovery",
+          "claim": "Game Informer describes Rare, Discoverable and Legendary animal-tracking categories.",
+          "entities": [
+            "Leonida",
+            "Animal tracking"
+          ],
+          "kind": "FACT",
+          "usefulness": 5,
+          "importance": 4,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Public exclusive article based on Rockstar developer information, dated 2026-09-29. Factual attributed pre-release report; not player-tested. Full subscription cover story was not accessed or bypassed.",
+          "searchTerms": []
+        }
+      ]
+    },
+    {
+      "key": "gi-weather",
+      "title": "Game Informer — GTA VI weather exclusive",
+      "url": "https://gameinformer.com/exclusive/2026/09/29/exclusive-grand-theft-auto-vi-features-tropical-storms-and-hurricanes",
+      "publishedAt": "2026-09-29",
+      "evidenceType": "INDEPENDENT_ANALYSIS",
+      "author": "Marcus Stewart",
+      "context": "Public developer-interview report dated 2026-09-29. Storm frequency and effects on story/gameplay remain unspecified; no destruction simulation inferred.",
+      "upstream": null,
+      "claims": [
+        {
+          "key": "gi-weather-1",
+          "topic": "world",
+          "category": "other",
+          "claim": "Game Informer reports localized rainstorms in Leonida.",
+          "entities": [
+            "Leonida",
+            "Weather"
+          ],
+          "kind": "FACT",
+          "usefulness": 5,
+          "importance": 5,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Public developer-interview report dated 2026-09-29. Storm frequency and effects on story/gameplay remain unspecified; no destruction simulation inferred.",
+          "searchTerms": []
+        },
+        {
+          "key": "gi-weather-2",
+          "topic": "world",
+          "category": "other",
+          "claim": "Game Informer reports persistent puddles after GTA VI storms.",
+          "entities": [
+            "Leonida",
+            "Weather"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Public developer-interview report dated 2026-09-29. Storm frequency and effects on story/gameplay remain unspecified; no destruction simulation inferred.",
+          "searchTerms": []
+        },
+        {
+          "key": "gi-weather-3",
+          "topic": "world",
+          "category": "other",
+          "claim": "Game Informer reports rainbows under suitable lighting after showers.",
+          "entities": [
+            "Leonida",
+            "Weather"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Public developer-interview report dated 2026-09-29. Storm frequency and effects on story/gameplay remain unspecified; no destruction simulation inferred.",
+          "searchTerms": []
+        },
+        {
+          "key": "gi-weather-4",
+          "topic": "world",
+          "category": "other",
+          "claim": "Game Informer reports tropical storms in GTA VI.",
+          "entities": [
+            "Leonida",
+            "Weather"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Public developer-interview report dated 2026-09-29. Storm frequency and effects on story/gameplay remain unspecified; no destruction simulation inferred.",
+          "searchTerms": []
+        },
+        {
+          "key": "gi-weather-5",
+          "topic": "world",
+          "category": "other",
+          "claim": "Game Informer reports hurricanes in GTA VI.",
+          "entities": [
+            "Leonida",
+            "Weather"
+          ],
+          "kind": "FACT",
+          "usefulness": 5,
+          "importance": 5,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Public developer-interview report dated 2026-09-29. Storm frequency and effects on story/gameplay remain unspecified; no destruction simulation inferred.",
+          "searchTerms": []
+        }
+      ]
+    },
+    {
+      "key": "map-analysis",
+      "title": "GTA6MAP.IO — timestamped Extended Look analysis",
+      "url": "https://gta6map.io/extended-look",
+      "publishedAt": "2026-08-27",
+      "evidenceType": "COMMUNITY_DISCOVERY",
+      "author": "GTA6MAP.IO",
+      "context": "Community footage analysis with source-video timestamps. These are attributed scene observations, not firsthand playtesting, independently confirmed mechanics or unrestricted player capabilities.",
+      "upstream": "https://www.rockstargames.com/videos/rk721912",
+      "claims": [
+        {
+          "key": "map-analysis-1",
+          "topic": "gameplay",
+          "category": "discovery",
+          "claim": "The analysis identifies a Slim Jim lock-picking sequence at 6:07.",
+          "entities": [
+            "Slim Jim",
+            "Vehicle theft"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Community footage analysis with source-video timestamps. These are attributed scene observations, not firsthand playtesting, independently confirmed mechanics or unrestricted player capabilities.",
+          "searchTerms": []
+        },
+        {
+          "key": "map-analysis-2",
+          "topic": "world",
+          "category": "location",
+          "claim": "The analysis identifies 3D building volumes in the map display at 8:00.",
+          "entities": [
+            "Leonida",
+            "Map display"
+          ],
+          "kind": "OBSERVATION",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Community footage analysis with source-video timestamps. These are attributed scene observations, not firsthand playtesting, independently confirmed mechanics or unrestricted player capabilities.",
+          "searchTerms": []
+        },
+        {
+          "key": "map-analysis-3",
+          "topic": "weapons",
+          "category": "weapon",
+          "claim": "The analysis identifies Lucia shooting a shotgun one-handed at 9:21.",
+          "entities": [
+            "Lucia Caminos",
+            "Shotgun"
+          ],
+          "kind": "OBSERVATION",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Community footage analysis with source-video timestamps. These are attributed scene observations, not firsthand playtesting, independently confirmed mechanics or unrestricted player capabilities.",
+          "searchTerms": []
+        },
+        {
+          "key": "map-analysis-4",
+          "topic": "gameplay",
+          "category": "discovery",
+          "claim": "The analysis identifies binocular scouting at 10:48.",
+          "entities": [
+            "Binoculars",
+            "Scouting"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Community footage analysis with source-video timestamps. These are attributed scene observations, not firsthand playtesting, independently confirmed mechanics or unrestricted player capabilities.",
+          "searchTerms": []
+        },
+        {
+          "key": "map-analysis-5",
+          "topic": "gameplay",
+          "category": "discovery",
+          "claim": "The analysis identifies dialogue choices at Effluvia at 10:50.",
+          "entities": [
+            "Effluvia",
+            "Dialogue"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Community footage analysis with source-video timestamps. These are attributed scene observations, not firsthand playtesting, independently confirmed mechanics or unrestricted player capabilities.",
+          "searchTerms": []
+        },
+        {
+          "key": "map-analysis-6",
+          "topic": "gameplay",
+          "category": "discovery",
+          "claim": "The analysis identifies six wanted stars at 14:00.",
+          "entities": [
+            "Wanted level"
+          ],
+          "kind": "FACT",
+          "usefulness": 5,
+          "importance": 5,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Community footage analysis with source-video timestamps. These are attributed scene observations, not firsthand playtesting, independently confirmed mechanics or unrestricted player capabilities.",
+          "searchTerms": []
+        },
+        {
+          "key": "map-analysis-7",
+          "topic": "gameplay",
+          "category": "discovery",
+          "claim": "The analysis identifies face coverings in the item wheel at 17:50.",
+          "entities": [
+            "Face coverings"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Community footage analysis with source-video timestamps. These are attributed scene observations, not firsthand playtesting, independently confirmed mechanics or unrestricted player capabilities.",
+          "searchTerms": []
+        },
+        {
+          "key": "map-analysis-8",
+          "topic": "gameplay",
+          "category": "discovery",
+          "claim": "The analysis identifies a Lifeinvader livestream feed at 18:04.",
+          "entities": [
+            "Lifeinvader"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Community footage analysis with source-video timestamps. These are attributed scene observations, not firsthand playtesting, independently confirmed mechanics or unrestricted player capabilities.",
+          "searchTerms": []
+        },
+        {
+          "key": "map-analysis-9",
+          "topic": "gameplay",
+          "category": "discovery",
+          "claim": "The analysis identifies switching protagonists during a chase at 18:41.",
+          "entities": [
+            "Jason Duval",
+            "Lucia Caminos"
+          ],
+          "kind": "FACT",
+          "usefulness": 5,
+          "importance": 5,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Community footage analysis with source-video timestamps. These are attributed scene observations, not firsthand playtesting, independently confirmed mechanics or unrestricted player capabilities.",
+          "searchTerms": []
+        },
+        {
+          "key": "map-analysis-10",
+          "topic": "activities",
+          "category": "discovery",
+          "claim": "The analysis identifies fishing footage at 25:52.",
+          "entities": [
+            "Fishing"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Community footage analysis with source-video timestamps. These are attributed scene observations, not firsthand playtesting, independently confirmed mechanics or unrestricted player capabilities.",
+          "searchTerms": []
+        }
+      ]
+    },
+    {
+      "key": "pcg-observed",
+      "title": "PC Gamer — observed Extended Look sequences",
+      "url": "https://www.pcgamer.com/news/live/grand-theft-auto-6-reveal-live-coverage-breaking-down-the-netflix-extended-look-event/",
+      "publishedAt": "2026-08-27",
+      "evidenceType": "INDEPENDENT_ANALYSIS",
+      "author": "PC Gamer",
+      "context": "Journalists’ direct observations of the official showcase, with mission/scene limits preserved. Only the post-reveal observed sections are used; earlier leak coverage is not downloaded or embedded.",
+      "upstream": "https://www.rockstargames.com/videos/rk721912",
+      "claims": [
+        {
+          "key": "pcg-observed-1",
+          "topic": "activities",
+          "category": "discovery",
+          "claim": "PC Gamer observed Jason playing basketball in the Extended Look.",
+          "entities": [
+            "Jason Duval",
+            "Basketball"
+          ],
+          "kind": "OBSERVATION",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Journalists’ direct observations of the official showcase, with mission/scene limits preserved. Only the post-reveal observed sections are used; earlier leak coverage is not downloaded or embedded.",
+          "searchTerms": []
+        },
+        {
+          "key": "pcg-observed-2",
+          "topic": "activities",
+          "category": "discovery",
+          "claim": "PC Gamer observed scuba diving footage in the Extended Look.",
+          "entities": [
+            "Scuba diving"
+          ],
+          "kind": "OBSERVATION",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Journalists’ direct observations of the official showcase, with mission/scene limits preserved. Only the post-reveal observed sections are used; earlier leak coverage is not downloaded or embedded.",
+          "searchTerms": []
+        },
+        {
+          "key": "pcg-observed-3",
+          "topic": "activities",
+          "category": "discovery",
+          "claim": "PC Gamer observed jet skiing footage in the Extended Look.",
+          "entities": [
+            "Jet skiing"
+          ],
+          "kind": "OBSERVATION",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Journalists’ direct observations of the official showcase, with mission/scene limits preserved. Only the post-reveal observed sections are used; earlier leak coverage is not downloaded or embedded.",
+          "searchTerms": []
+        },
+        {
+          "key": "pcg-observed-4",
+          "topic": "activities",
+          "category": "discovery",
+          "claim": "PC Gamer observed kayaking footage in the Extended Look.",
+          "entities": [
+            "Kayaking"
+          ],
+          "kind": "OBSERVATION",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Journalists’ direct observations of the official showcase, with mission/scene limits preserved. Only the post-reveal observed sections are used; earlier leak coverage is not downloaded or embedded.",
+          "searchTerms": []
+        },
+        {
+          "key": "pcg-observed-5",
+          "topic": "activities",
+          "category": "discovery",
+          "claim": "PC Gamer observed street racing footage in the Extended Look.",
+          "entities": [
+            "Street racing"
+          ],
+          "kind": "OBSERVATION",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Journalists’ direct observations of the official showcase, with mission/scene limits preserved. Only the post-reveal observed sections are used; earlier leak coverage is not downloaded or embedded.",
+          "searchTerms": []
+        },
+        {
+          "key": "pcg-observed-6",
+          "topic": "story",
+          "category": "mission",
+          "claim": "PC Gamer describes a security-detail mission involving Megamundo executive Andrés de León.",
+          "entities": [
+            "Andrés de León",
+            "Megamundo"
+          ],
+          "kind": "OBSERVATION",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Journalists’ direct observations of the official showcase, with mission/scene limits preserved. Only the post-reveal observed sections are used; earlier leak coverage is not downloaded or embedded.",
+          "searchTerms": []
+        },
+        {
+          "key": "pcg-observed-7",
+          "topic": "story",
+          "category": "mission",
+          "claim": "PC Gamer describes a drug pickup that turns into a shootout in the Extended Look.",
+          "entities": [
+            "Jason Duval",
+            "Lucia Caminos"
+          ],
+          "kind": "OBSERVATION",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Journalists’ direct observations of the official showcase, with mission/scene limits preserved. Only the post-reveal observed sections are used; earlier leak coverage is not downloaded or embedded.",
+          "searchTerms": []
+        },
+        {
+          "key": "pcg-observed-8",
+          "topic": "gameplay",
+          "category": "discovery",
+          "claim": "PC Gamer observed Lucia burning a vehicle in the Extended Look.",
+          "entities": [
+            "Lucia Caminos",
+            "Vehicle evidence"
+          ],
+          "kind": "OBSERVATION",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Journalists’ direct observations of the official showcase, with mission/scene limits preserved. Only the post-reveal observed sections are used; earlier leak coverage is not downloaded or embedded.",
+          "searchTerms": []
+        },
+        {
+          "key": "pcg-observed-9",
+          "topic": "gameplay",
+          "category": "discovery",
+          "claim": "Character switching may be constrained by scripted mission storytelling.",
+          "entities": [
+            "Jason Duval",
+            "Lucia Caminos"
+          ],
+          "kind": "INFERENCE",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "PARTIAL",
+          "current": "UNCERTAIN",
+          "playerCare": "YES",
+          "safeWithStatus": "NO",
+          "notes": "PC Gamer expressly described uncertainty about player control versus staged mission transitions. Retain internally; do not present as established mechanics.",
+          "searchTerms": []
+        }
+      ]
+    },
+    {
+      "key": "specialist",
+      "title": "GTA Intel — Extended Look gameplay recap",
+      "url": "https://gtaintel.com/news/gta-6-extended-look-gameplay-details-recap",
+      "publishedAt": "2026-09-12",
+      "evidenceType": "INDEPENDENT_ANALYSIS",
+      "author": "GTA Intel",
+      "context": "Specialist recap updated 2026-09-12, citing the official showcase and other reports. Conservative attributed report scope. Shared upstream footage family prevents copied coverage counting as independent factual corroboration.",
+      "upstream": "https://www.rockstargames.com/videos/rk721912",
+      "claims": [
+        {
+          "key": "specialist-1",
+          "topic": "gameplay",
+          "category": "discovery",
+          "claim": "The recap describes an AI-controlled inactive protagonist.",
+          "entities": [
+            "Jason Duval",
+            "Lucia Caminos"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Specialist recap updated 2026-09-12, citing the official showcase and other reports. Conservative attributed report scope. Shared upstream footage family prevents copied coverage counting as independent factual corroboration.",
+          "searchTerms": []
+        },
+        {
+          "key": "specialist-2",
+          "topic": "weapons",
+          "category": "weapon",
+          "claim": "The recap describes bullet-time aiming at highlighted weak points.",
+          "entities": [
+            "Bullet time"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Specialist recap updated 2026-09-12, citing the official showcase and other reports. Conservative attributed report scope. Shared upstream footage family prevents copied coverage counting as independent factual corroboration.",
+          "searchTerms": []
+        },
+        {
+          "key": "specialist-3",
+          "topic": "gameplay",
+          "category": "discovery",
+          "claim": "The recap describes quiet vehicle entry using a Slim Jim.",
+          "entities": [
+            "Slim Jim",
+            "Vehicle theft"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Specialist recap updated 2026-09-12, citing the official showcase and other reports. Conservative attributed report scope. Shared upstream footage family prevents copied coverage counting as independent factual corroboration.",
+          "searchTerms": []
+        },
+        {
+          "key": "specialist-4",
+          "topic": "gameplay",
+          "category": "discovery",
+          "claim": "The recap describes an outfit-selection wheel.",
+          "entities": [
+            "Outfits"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Specialist recap updated 2026-09-12, citing the official showcase and other reports. Conservative attributed report scope. Shared upstream footage family prevents copied coverage counting as independent factual corroboration.",
+          "searchTerms": []
+        },
+        {
+          "key": "specialist-5",
+          "topic": "gameplay",
+          "category": "discovery",
+          "claim": "The recap describes body changes linked to exercise and eating.",
+          "entities": [
+            "Physique"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Specialist recap updated 2026-09-12, citing the official showcase and other reports. Conservative attributed report scope. Shared upstream footage family prevents copied coverage counting as independent factual corroboration.",
+          "searchTerms": []
+        },
+        {
+          "key": "specialist-6",
+          "topic": "gameplay",
+          "category": "discovery",
+          "claim": "The recap describes NPC reactions to visibly carried assault rifles.",
+          "entities": [
+            "NPC reactions",
+            "Assault rifles"
+          ],
+          "kind": "FACT",
+          "usefulness": 4,
+          "importance": 3,
+          "supported": "YES",
+          "current": "YES",
+          "playerCare": "YES",
+          "safeWithStatus": "YES",
+          "notes": "Specialist recap updated 2026-09-12, citing the official showcase and other reports. Conservative attributed report scope. Shared upstream footage family prevents copied coverage counting as independent factual corroboration.",
+          "searchTerms": []
+        }
+      ]
+    },
+    {
+      "key": "historical-release",
+      "title": "Rockstar — superseded May 2026 release announcement",
+      "url": "https://www.rockstargames.com/newswire/article/258aa538o412ok/grand-theft-auto-vi-is-now-coming-may-26-2026",
+      "publishedAt": "2025-05-02",
+      "evidenceType": "OFFICIAL",
+      "author": "Rockstar Games",
+      "context": "Historical reference explicitly superseded, not a current launch date.",
+      "upstream": null,
+      "claims": [
+        {
+          "key": "historical-release-1",
+          "topic": "release",
+          "category": "other",
+          "claim": "Rockstar previously scheduled GTA VI for May 26, 2026.",
+          "entities": [
+            "GTA VI"
+          ],
+          "kind": "FACT",
+          "usefulness": 2,
+          "importance": 3,
+          "supported": "YES",
+          "current": "NO",
+          "playerCare": "NO",
+          "safeWithStatus": "NO",
+          "notes": "Historical announcement superseded by the current November 19, 2026 date. Preserved as historical evidence, never surfaced as the current release answer.",
+          "searchTerms": []
+        }
+      ]
+    }
+  ]
+}

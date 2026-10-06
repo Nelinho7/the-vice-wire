@@ -1,3 +1,4 @@
+import {humanEvidenceReview} from './source-provenance.ts';
 import { randomUUID } from 'node:crypto';
 import { categories } from './model.ts';
 import type { Repository,HumanEvaluation } from './model.ts';
@@ -14,7 +15,7 @@ export function saveHumanEvaluation(repo:Repository,input:any,at=new Date().toIS
   const linked=repo.evidence().filter(e=>e.sourceId===input.sourceId).map(e=>e.claimId);
   const claimIds=input.claimIds??[...new Set(linked)];
   if(!Array.isArray(claimIds)||claimIds.some((id:any)=>typeof id!=='string'||!linked.includes(id)))throw Error('Evaluation claim IDs must be linked to this source');
-  const evaluation:HumanEvaluation={id:randomUUID(),sourceId:input.sourceId,reviewer:input.reviewer.trim(),useful:input.useful,category:yes?input.category:null,extractionQuality:yes?input.extractionQuality:null,matching:yes?input.matching:null,usefulness:yes?input.usefulness:null,showToPlayer:input.showToPlayer,notes:input.notes,at,claimIds:[...new Set(claimIds)]};
+  const evaluation:HumanEvaluation={id:randomUUID(),sourceId:input.sourceId,reviewer:input.reviewer.trim(),useful:input.useful,category:yes?input.category:null,extractionQuality:yes?input.extractionQuality:null,matching:yes?input.matching:null,usefulness:yes?input.usefulness:null,showToPlayer:input.showToPlayer,notes:input.notes,at,claimIds:[...new Set(claimIds)],evidenceReview:humanEvidenceReview(repo,repo.sources().find(s=>s.id===input.sourceId)!,claimIds,input.evidenceReview,at)};
   repo.saveEvaluation(evaluation);return evaluation;
 }
 export function latestEvaluations(repo:Repository){const latest=new Map<string,HumanEvaluation>();for(const evaluation of repo.evaluations())latest.set(evaluation.sourceId,evaluation);return latest;}

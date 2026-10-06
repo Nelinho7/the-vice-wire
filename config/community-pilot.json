@@ -1,0 +1,30 @@
+{
+  "urls": [
+    "https://www.gtaboom.com/make-money-in-gta-online-228d",
+    "https://www.gtaboom.com/gta-online-halloween-week-one-d475",
+    "https://www.gtaboom.com/gta-online-weekly-updates",
+    "https://www.gtaboom.com/los-santos-drug-wars-and-acid-lab-guide-a77d",
+    "https://www.gtaboom.com/los-santos-drug-wars-acid-lab-business-guide-1519/",
+    "https://www.gtaboom.com/los-santos-drug-wars-and-acid-lab-faq-cbfe",
+    "https://www.gtaboom.com/los-santos-drug-wars-first-dose-off-the-rails-guide-81ca",
+    "https://www.gtaboom.com/los-santos-drug-wars-first-dose-designated-driver-guide-24fa",
+    "https://www.gtaboom.com/los-santos-drug-wars-first-dose-welcome-to-the-troupe-guide-804f"
+  ],
+  "policies": [
+    {
+      "domain": "www.gtaboom.com",
+      "decision": "allow",
+      "reason": "Robots permit page paths; terms reviewed. UGC excluded from editorial CC licence. Bounded internal excerpts only; no production permission asserted.",
+      "reviewedAt": "2026-10-04T21:02:44.049Z",
+      "termsUrl": "https://www.gtaboom.com/terms-of-use-f4c3/",
+      "delayMs": 3000,
+      "excerptWords": 180
+    }
+  ],
+  "target": 50,
+  "maxItems": 100,
+  "maxPerCommunity": 30,
+  "publishingEnabled": false,
+  "schedulingEnabled": false,
+  "jevStatus": "UNAVAILABLE_PENDING_CONFIRMED_PROVIDER_AND_CREDENTIAL"
+}

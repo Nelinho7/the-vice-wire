@@ -1,0 +1,203 @@
+{
+  "reviewKind": "HUMAN_REVIEWED",
+  "humanApproved": true,
+  "scope": "Existing corpus only; no weak rumor or genuine contradiction present. Those are synthetic regression cases, not corpus inventions.",
+  "claims": [
+    {
+      "id": "cace8f34-ddd9-442e-ba7f-5ec7727e474e",
+      "claim": "GTA VI is scheduled for November 19, 2026.",
+      "sourceType": "OFFICIAL_ROCKSTAR_TEXT",
+      "strength": "DIRECT",
+      "currentness": "CURRENT",
+      "expectedStatus": "VERIFIED",
+      "reason": "Current official landing-page text checked 2026-10-05. Undated page timestamp is the observation date, not a claimed original publication date; story details remain pre-release."
+    },
+    {
+      "id": "9f506b27-faa4-4e86-8266-8aebc9e00ff8",
+      "claim": "Rockstar previously scheduled GTA VI for May 26, 2026.",
+      "sourceType": "OFFICIAL_ROCKSTAR_TEXT",
+      "strength": "DIRECT",
+      "currentness": "OUTDATED",
+      "expectedStatus": "OUTDATED",
+      "reason": "Historical announcement superseded by the current November 19, 2026 date. Preserved as historical evidence, never surfaced as the current release answer."
+    },
+    {
+      "id": "f60ba9f4-f153-4ef1-b19d-a3e7bed9d34d",
+      "claim": "Jason Duval served in the Army.",
+      "sourceType": "OFFICIAL_ROCKSTAR_TEXT",
+      "strength": "DIRECT",
+      "currentness": "CURRENT",
+      "expectedStatus": "VERIFIED",
+      "reason": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries."
+    },
+    {
+      "id": "4284550b-7b8f-45fe-90b1-e7a5e061e6d9",
+      "claim": "Lucia Caminos was imprisoned in Leonida Penitentiary.",
+      "sourceType": "OFFICIAL_ROCKSTAR_TEXT",
+      "strength": "DIRECT",
+      "currentness": "CURRENT",
+      "expectedStatus": "VERIFIED",
+      "reason": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries."
+    },
+    {
+      "id": "1873fe17-4983-4a38-80c9-da35e00bf600",
+      "claim": "Rockstar names Vice City as a GTA VI destination.",
+      "sourceType": "OFFICIAL_ROCKSTAR_TEXT",
+      "strength": "DIRECT",
+      "currentness": "CURRENT",
+      "expectedStatus": "VERIFIED",
+      "reason": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries."
+    },
+    {
+      "id": "9acd5b14-cc3f-420b-8aa2-c5545befe0ec",
+      "claim": "Rockstar names Port Gellhorn as a GTA VI destination.",
+      "sourceType": "OFFICIAL_ROCKSTAR_TEXT",
+      "strength": "DIRECT",
+      "currentness": "CURRENT",
+      "expectedStatus": "VERIFIED",
+      "reason": "Official character biographies and destination headings originally introduced with Trailer 2; checked on the current page. Named settings and narrative backgrounds, not promises of playable systems or accessible boundaries."
+    },
+    {
+      "id": "59f2216f-b7f7-41d3-b5ec-2ce9a8cbff66",
+      "claim": "GTA VI lists PlayStation 5 as a launch platform.",
+      "sourceType": "OFFICIAL_ROCKSTAR_TEXT",
+      "strength": "DIRECT",
+      "currentness": "CURRENT",
+      "expectedStatus": "VERIFIED",
+      "reason": "Current official landing-page text checked 2026-10-05. Undated page timestamp is the observation date, not a claimed original publication date; story details remain pre-release."
+    },
+    {
+      "id": "cf29ab0f-9129-44d6-813b-adc278d08fa2",
+      "claim": "PlayStation says GTA VI cannot be played on PS4.",
+      "sourceType": "FIRST_PARTY_PLATFORM",
+      "strength": "DIRECT",
+      "currentness": "CURRENT",
+      "expectedStatus": "VERIFIED",
+      "reason": "Current first-party product/features listing checked 2026-10-05; platform-specific pre-release descriptions. No frame-rate, PC date or final performance guarantees inferred."
+    },
+    {
+      "id": "64a5c0f3-3b9c-40d4-ac91-0b070fa0d56d",
+      "claim": "The PS5 listing supports Remote Play for GTA VI.",
+      "sourceType": "FIRST_PARTY_PLATFORM",
+      "strength": "DIRECT",
+      "currentness": "CURRENT",
+      "expectedStatus": "VERIFIED",
+      "reason": "Current first-party product/features listing checked 2026-10-05; platform-specific pre-release descriptions. No frame-rate, PC date or final performance guarantees inferred."
+    },
+    {
+      "id": "14a709de-81ea-4430-9ab4-cfe53a9e633b",
+      "claim": "PlayStation describes the Extended Look as in-game PS5 footage.",
+      "sourceType": "FIRST_PARTY_PLATFORM",
+      "strength": "DIRECT",
+      "currentness": "CURRENT",
+      "expectedStatus": "VERIFIED",
+      "reason": "Current first-party product/features listing checked 2026-10-05; platform-specific pre-release descriptions. No frame-rate, PC date or final performance guarantees inferred."
+    },
+    {
+      "id": "56874b94-6e46-4f85-b644-1c22f98bc60f",
+      "claim": "Rockstar’s GTA VI gallery names the Dinka Enduro motorcycle.",
+      "sourceType": "OFFICIAL_ROCKSTAR_TEXT",
+      "strength": "DIRECT",
+      "currentness": "CURRENT",
+      "expectedStatus": "VERIFIED",
+      "reason": "Official caption text only, checked 2026-10-05. Several entries are grouped under Ultimate Edition Benefits: presence in the gallery does not establish universal access, spawn locations, ownership or pricing. No image or video downloaded."
+    },
+    {
+      "id": "efc6c16d-8469-43f8-845c-d17195a8ec64",
+      "claim": "Rockstar’s GTA VI gallery names Hawk & Little Morgan revolvers.",
+      "sourceType": "OFFICIAL_ROCKSTAR_TEXT",
+      "strength": "DIRECT",
+      "currentness": "CURRENT",
+      "expectedStatus": "VERIFIED",
+      "reason": "Official caption text only, checked 2026-10-05. Several entries are grouped under Ultimate Edition Benefits: presence in the gallery does not establish universal access, spawn locations, ownership or pricing. No image or video downloaded."
+    },
+    {
+      "id": "ee3658d1-f5d2-495e-a4bd-ee5331cf0cd8",
+      "claim": "Game Informer reports over 170 animal species in GTA VI.",
+      "sourceType": "REPUTABLE_INDEPENDENT_REPORTING",
+      "strength": "DIRECT",
+      "currentness": "CURRENT",
+      "expectedStatus": "LIKELY",
+      "reason": "Public exclusive article based on Rockstar developer information, dated 2026-09-29. Factual attributed pre-release report; not player-tested. Full subscription cover story was not accessed or bypassed."
+    },
+    {
+      "id": "a668fc9e-fade-4234-ac7d-93d6bc858b51",
+      "claim": "Game Informer reports hurricanes in GTA VI.",
+      "sourceType": "REPUTABLE_INDEPENDENT_REPORTING",
+      "strength": "DIRECT",
+      "currentness": "CURRENT",
+      "expectedStatus": "LIKELY",
+      "reason": "Public developer-interview report dated 2026-09-29. Storm frequency and effects on story/gameplay remain unspecified; no destruction simulation inferred."
+    },
+    {
+      "id": "cfa3dd51-68ca-4db3-b2d9-9007954200e6",
+      "claim": "The analysis identifies 3D building volumes in the map display at 8:00.",
+      "sourceType": "COMMUNITY_ANALYSIS",
+      "strength": "OBSERVED",
+      "currentness": "CURRENT",
+      "expectedStatus": "DEVELOPING",
+      "reason": "Community footage analysis with source-video timestamps. These are attributed scene observations, not firsthand playtesting, independently confirmed mechanics or unrestricted player capabilities."
+    },
+    {
+      "id": "1c45dc4f-7b6d-4308-b16b-330759c62d72",
+      "claim": "The analysis identifies six wanted stars at 14:00.",
+      "sourceType": "COMMUNITY_ANALYSIS",
+      "strength": "OBSERVED",
+      "currentness": "CURRENT",
+      "expectedStatus": "DEVELOPING",
+      "reason": "Community footage analysis with source-video timestamps. These are attributed scene observations, not firsthand playtesting, independently confirmed mechanics or unrestricted player capabilities."
+    },
+    {
+      "id": "9984b42d-2043-493b-8609-8d16deeb631e",
+      "claim": "PC Gamer observed Jason playing basketball in the Extended Look.",
+      "sourceType": "INDEPENDENT_OBSERVATION",
+      "strength": "OBSERVED",
+      "currentness": "CURRENT",
+      "expectedStatus": "DEVELOPING",
+      "reason": "Journalists’ direct observations of the official showcase, with mission/scene limits preserved. Only the post-reveal observed sections are used; earlier leak coverage is not downloaded or embedded."
+    },
+    {
+      "id": "2d8e0ade-f1ff-4fe7-b5b2-8122a51c9b89",
+      "claim": "The recap describes an AI-controlled inactive protagonist.",
+      "sourceType": "SPECIALIST_RECAP",
+      "strength": "WEAK",
+      "currentness": "CURRENT",
+      "expectedStatus": "DEVELOPING",
+      "reason": "Specialist recap updated 2026-09-12, citing the official showcase and other reports. Conservative attributed report scope. Shared upstream footage family prevents copied coverage counting as independent factual corroboration."
+    },
+    {
+      "id": "0fa64d00-468c-422d-82c9-699203f7d09b",
+      "claim": "The recap describes bullet-time aiming at highlighted weak points.",
+      "sourceType": "SPECIALIST_RECAP",
+      "strength": "WEAK",
+      "currentness": "CURRENT",
+      "expectedStatus": "DEVELOPING",
+      "reason": "Specialist recap updated 2026-09-12, citing the official showcase and other reports. Conservative attributed report scope. Shared upstream footage family prevents copied coverage counting as independent factual corroboration."
+    },
+    {
+      "id": "144d1c2b-3984-49ce-ba55-0a0c3b929a12",
+      "claim": "Character switching may be constrained by scripted mission storytelling.",
+      "sourceType": "INDEPENDENT_OBSERVATION",
+      "strength": "INFERRED",
+      "currentness": "UNKNOWN",
+      "expectedStatus": "UNVERIFIED",
+      "reason": "PC Gamer expressly described uncertainty about player control versus staged mission transitions. Retain internally; do not present as established mechanics."
+    }
+  ],
+  "humanReview": {
+    "approvedAt": "2026-10-05",
+    "reviewedArtifacts": [
+      "calibration-review.md",
+      "calibration-audit-79.csv"
+    ],
+    "scope": "User approved exact displayed propositions and all 79 proposed statuses for main staging only; two withheld remain withheld. No new primary-source validation implied.",
+    "distribution": {
+      "VERIFIED": 43,
+      "LIKELY": 10,
+      "DEVELOPING": 24,
+      "UNVERIFIED": 1,
+      "OUTDATED": 1,
+      "DISPUTED": 0
+    }
+  }
+}

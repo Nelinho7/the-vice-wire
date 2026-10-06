@@ -20,7 +20,7 @@ export class BudgetedProvider implements ExtractionProvider {
       if(ledger.accountedCost+reserved>this.config.maxEstimatedSpend)throw new PilotLimitError('Next call reservation would exceed maximum estimated pilot spend');
       this.repo.usage(pending);
     });
-    try{const result=await this.inner.extract(s);const usage={...pending,...result.usage,status:'complete' as const};this.repo.usage(usage);return {...result,usage};}
+    try{const result=await this.inner.extract(s);const usage={...pending,...result.usage,id:pending.id,pilotId:pending.pilotId,reservedCost:pending.reservedCost,at:pending.at,status:'complete' as const};this.repo.usage(usage);return {...result,usage};}
     catch(error){this.repo.usage({...pending,status:'error',error:String(error)});const recorded=new Error(String(error));(recorded as any).recordedUsage=true;throw recorded;}
   }
 }

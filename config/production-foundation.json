@@ -1,0 +1,32 @@
+{
+  "phase": "PRODUCTION_FOUNDATION_V1",
+  "deploymentAuthorized": false,
+  "host": "OWNER_DECISION_PENDING",
+  "database": "ISOLATED_SQLITE_WAL_SINGLE_PROCESS",
+  "persistentMount": "/var/lib/vice-wire",
+  "publicEntry": "deployment/foundation-entry.ts",
+  "privateEntry": "deployment/operator-entry.ts",
+  "healthPath": "/healthz",
+  "environmentSeparation": [
+    "development",
+    "staging",
+    "production"
+  ],
+  "publishingEnabled": false,
+  "liveEnabled": false,
+  "sourceScanningEnabled": false,
+  "automaticPublicationEnabled": false,
+  "recurringJobs": [],
+  "emailAdapter": "OWNER_DECISION_PENDING",
+  "analyticsEnabled": false,
+  "publicLaunchBlockers": [
+    "owner host/database/domain",
+    "TLS and trusted proxy",
+    "email adapter and sender verification",
+    "legal review",
+    "admin bootstrap and verification",
+    "off-host encrypted backups",
+    "monitoring alerts",
+    "separate deployment authorization"
+  ]
+}

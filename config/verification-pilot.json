@@ -1,0 +1,330 @@
+{
+  "provider": "Codex public web search; recorded focused-query results; no broad discovery",
+  "costUSD": null,
+  "searchesPerformed": 25,
+  "claims": [
+    {
+      "claimId": "d9f5da35-1b08-456e-acad-c33ef4e9acc3",
+      "claim": "Cluckin’ Bell Farm Raid avoids a property purchase, while Cayo Perico requires a Kosatka and more preparation to learn",
+      "searches": [
+        {
+          "query": "Cluckin Bell Farm Raid no property Kosatka Cayo Perico solo prerequisites",
+          "hits": [
+            {
+              "url": "https://howtoplayhub.com/gta-5/cluckin-bell-farm-raid-guide",
+              "sourceType": "other"
+            }
+          ]
+        },
+        {
+          "query": "site:gtaboom.com Cluckin Bell Farm Raid no property Kosatka solo preparation",
+          "hits": [
+            {
+              "url": "https://www.gtaboom.com/cluckin-bell-farm-raid-walkthrough-5222/",
+              "sourceType": "specialist"
+            },
+            {
+              "url": "https://www.gtaboom.com/make-money-in-gta-online-228d",
+              "sourceType": "specialist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "claimId": "63abd786-1171-4dda-a5d7-fdce90ddd33c",
+      "claim": "Diamond Casino and Doomsday heists are suitable for two reliable players",
+      "searches": [
+        {
+          "query": "Diamond Casino Doomsday heists two players minimum reliable crew",
+          "hits": [
+            {
+              "url": "https://howtoplayhub.com/gta-5/diamond-casino-heist-guide",
+              "sourceType": "other"
+            }
+          ]
+        },
+        {
+          "query": "site:gtaboom.com Diamond Casino Doomsday two players guide",
+          "hits": [
+            {
+              "url": "https://www.gtaboom.com/best-gta-online-heists-for-making-money-a45d",
+              "sourceType": "specialist"
+            }
+          ]
+        },
+        {
+          "query": "site:gtaboom.com \"Doomsday\" \"2-4 players\" Casino",
+          "hits": [
+            {
+              "url": "https://www.gtaboom.com/gta-online-the-doomsday-heist-now-available-ffc3",
+              "sourceType": "specialist"
+            }
+          ]
+        },
+        {
+          "query": "site:gtaboom.com \"Diamond Casino\" \"two players\" guide",
+          "hits": [
+            {
+              "url": "https://www.gtaboom.com/big-con-heist-prep-securing-the-noose-exit-disguise-2f0c",
+              "sourceType": "specialist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "claimId": "482b1ee5-89c0-4ad4-8467-e7b022dfb279",
+      "claim": "Original apartment heists can be tackled by a four-player group",
+      "searches": [
+        {
+          "query": "original apartment heists four players required GTA Online",
+          "hits": [
+            {
+              "url": "https://support.rockstargames.com/articles/6hBJdQCmQ3YR7nqHIq9AGS/gtav-title-update-1-21-ps3-xbox-360-1-07-ps4-xbox-one",
+              "sourceType": "official"
+            }
+          ]
+        },
+        {
+          "query": "site:gtaboom.com original apartment heists four players Fleeca",
+          "hits": [
+            {
+              "url": "https://www.gtaboom.com/original-heists-8fa7/",
+              "sourceType": "specialist"
+            },
+            {
+              "url": "https://www.gtaboom.com/original-heists-faq-503c/",
+              "sourceType": "specialist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "claimId": "ca74167f-f246-49dc-9190-51b2f94b539e",
+      "claim": "3X GTA$ & RP on Halloween Featured Series: Slasher, Ramius",
+      "searches": [
+        {
+          "query": "site:rockstargames.com \"October\" \"2026\" \"Slasher\" \"3X\"",
+          "hits": [
+            {
+              "url": "https://www.rockstargames.com/pl/newswire/article/39a22k25434a53/experience-halloween-thrills-all-throughout-october-in-gta-online",
+              "sourceType": "official"
+            }
+          ]
+        },
+        {
+          "query": "GTA Online \"October 1\" \"2026\" \"Slasher\" \"3X\"",
+          "hits": [
+            {
+              "url": "https://www.gtaboom.com/gta-online-halloween-week-one-d475",
+              "sourceType": "specialist"
+            },
+            {
+              "url": "https://gtabonuses.com/",
+              "sourceType": "community"
+            }
+          ]
+        },
+        {
+          "query": "\"October 1\" \"2026\" \"Slasher\" GTA -site:reddit.com -site:youtube.com -site:rockstargames.com",
+          "hits": [
+            {
+              "url": "https://timesaver.gg/blog/gta-online-career-progress-rewards-tier-4-payouts-2026",
+              "sourceType": "other"
+            },
+            {
+              "url": "https://www.aroged.com/2026/10/01/rewards-in-gta-online-wild-mode-and-halloween-survival-battle/",
+              "sourceType": "publication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "claimId": "2af67362-76f7-4740-a22d-6fe859dca549",
+      "claim": "3X GTA$ & RP on Halloween Survivals: Ludendorff Cemetery Survival, Cayo Perico Survival & Alien Survivals",
+      "searches": [
+        {
+          "query": "site:rockstargames.com \"October\" \"2026\" \"Halloween Survivals\"",
+          "hits": [
+            {
+              "url": "https://www.rockstargames.com/pl/newswire/article/39a22k25434a53/experience-halloween-thrills-all-throughout-october-in-gta-online",
+              "sourceType": "official"
+            }
+          ]
+        },
+        {
+          "query": "GTA Online \"October\" \"2026\" \"Halloween Survivals\" \"3X\"",
+          "hits": [
+            {
+              "url": "https://www.gtaboom.com/gta-online-halloween-week-one-d475",
+              "sourceType": "specialist"
+            },
+            {
+              "url": "https://gtabonuses.com/",
+              "sourceType": "community"
+            }
+          ]
+        },
+        {
+          "query": "\"October 1\" \"2026\" \"Halloween Survivals\" GTA -site:reddit.com -site:youtube.com -site:rockstargames.com",
+          "hits": [
+            {
+              "url": "https://timesaver.gg/blog/gta-online-career-progress-rewards-tier-4-payouts-2026",
+              "sourceType": "other"
+            },
+            {
+              "url": "https://www.aroged.com/2026/10/01/rewards-in-gta-online-wild-mode-and-halloween-survival-battle/",
+              "sourceType": "publication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "claimId": "7b302620-f6a9-4c7c-9af6-0a7f9e067973",
+      "claim": "3X GTA$ & RP on San Andreas Super Sport Series: Hotring Races, Random Transform Races",
+      "searches": [
+        {
+          "query": "site:rockstargames.com \"October\" \"2026\" \"Hotring\" \"Triple\"",
+          "hits": [
+            {
+              "url": "https://www.rockstargames.com/pl/newswire/article/39a22k25434a53/experience-halloween-thrills-all-throughout-october-in-gta-online",
+              "sourceType": "official"
+            }
+          ]
+        },
+        {
+          "query": "GTA Online \"October\" \"2026\" \"Hotring\" \"3X\"",
+          "hits": [
+            {
+              "url": "https://www.gtaboom.com/gta-online-halloween-week-one-d475",
+              "sourceType": "specialist"
+            },
+            {
+              "url": "https://gtabonuses.com/",
+              "sourceType": "community"
+            }
+          ]
+        },
+        {
+          "query": "\"October 1\" \"2026\" \"Hotring\" GTA -site:reddit.com -site:youtube.com -site:rockstargames.com",
+          "hits": [
+            {
+              "url": "https://timesaver.gg/blog/gta-online-career-progress-rewards-tier-4-payouts-2026",
+              "sourceType": "other"
+            },
+            {
+              "url": "https://www.aroged.com/2026/10/01/rewards-in-gta-online-wild-mode-and-halloween-survival-battle/",
+              "sourceType": "publication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "claimId": "86847c83-4fae-4c88-a32f-781120f7090b",
+      "claim": "2X GTA$ & RP on Bail Office Standard and Most Wanted Targets",
+      "searches": [
+        {
+          "query": "site:rockstargames.com \"October\" \"2026\" \"Bail\" \"Double\"",
+          "hits": [
+            {
+              "url": "https://www.rockstargames.com/pl/newswire/article/39a22k25434a53/experience-halloween-thrills-all-throughout-october-in-gta-online",
+              "sourceType": "official"
+            }
+          ]
+        },
+        {
+          "query": "GTA Online \"October\" \"2026\" \"Bail Office\" \"2X\"",
+          "hits": [
+            {
+              "url": "https://www.gtaboom.com/gta-online-halloween-week-one-d475",
+              "sourceType": "specialist"
+            },
+            {
+              "url": "https://gtabonuses.com/",
+              "sourceType": "community"
+            }
+          ]
+        },
+        {
+          "query": "\"October 1\" \"2026\" \"Bail Office\" GTA -site:reddit.com -site:youtube.com -site:rockstargames.com",
+          "hits": [
+            {
+              "url": "https://timesaver.gg/blog/gta-online-career-progress-rewards-tier-4-payouts-2026",
+              "sourceType": "other"
+            },
+            {
+              "url": "https://www.aroged.com/2026/10/01/rewards-in-gta-online-wild-mode-and-halloween-survival-battle/",
+              "sourceType": "publication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "claimId": "a0ff3c38-f97e-474e-b33e-33c2ca3f51c0",
+      "claim": "The average solo payout for the Cayo Perico Heist ranges from $1.0 million to $1.4 million per run.",
+      "searches": [
+        {
+          "query": "Cayo Perico solo \"1.0\" \"1.4\" million payout net 2026",
+          "hits": [
+            {
+              "url": "https://www.pcgamer.com/how-to-make-money-in-gta-online/",
+              "sourceType": "publication"
+            }
+          ]
+        },
+        {
+          "query": "site:gtaboom.com Cayo Perico payout solo 2026 net gross primary target",
+          "hits": [
+            {
+              "url": "https://www.gtaboom.com/gta-heist-payouts-complete-list-7c7f",
+              "sourceType": "specialist"
+            }
+          ]
+        },
+        {
+          "query": "site:gtaboom.com \"Cayo Perico Heist Payouts\" 2026",
+          "hits": [
+            {
+              "url": "https://www.gtaboom.com/cayo-perico-heist-payout-list-cooldowns-bonus-payouts-and-all-targets-035d",
+              "sourceType": "specialist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "claimId": "88e0c84d-56a3-4300-916e-4401bbcd2c6e",
+      "claim": "The Cayo Perico Heist takes approximately 45 to 60 minutes to complete including scouting, preparation, and finale.",
+      "searches": [
+        {
+          "query": "Cayo Perico \"45\" \"60\" minutes scouting prep finale 2026",
+          "hits": [
+            {
+              "url": "https://www.pcgamer.com/how-to-make-money-in-gta-online/",
+              "sourceType": "publication"
+            }
+          ]
+        },
+        {
+          "query": "site:gtaboss.gg Cayo Perico solo 45 60 minutes prep scouting finale 2026",
+          "hits": [
+            {
+              "url": "https://www.gtaboss.gg/gta-5-online/guides/how-to-complete-the-cayo-perico-heist-quickly-solo-and-with-max-payout-in",
+              "sourceType": "specialist"
+            },
+            {
+              "url": "https://www.gtaboss.gg/gta-5-online/guides/everything-you-need-to-know-about-the-cayo-perico-heist-part-1-intel-in-gta",
+              "sourceType": "specialist"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

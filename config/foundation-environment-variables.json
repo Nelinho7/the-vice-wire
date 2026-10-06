@@ -1,0 +1,702 @@
+{
+  "version": 1,
+  "containsValues": false,
+  "variables": [
+    {
+      "name": "AI_CACHE_TTL_HOURS",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "AI_RUN_BUDGET_USD",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "DAILY_AI_BUDGET_USD",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "DB_PATH",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "EXTRACTOR_MODE",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "HOST",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "INFORMANT_ADMIN_PASSWORD",
+      "visibility": "SERVER_SECRET",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "INFORMANT_DB_PATH",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "INFORMANT_PORT",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "INFORMANT_SCENARIO_DB",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "LLM_API_KEY",
+      "visibility": "SERVER_SECRET",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "LLM_ENDPOINT",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "LLM_INPUT_PRICE_PER_MILLION",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "LLM_MAX_INPUT_BYTES",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "LLM_MAX_OUTPUT_TOKENS",
+      "visibility": "SERVER_SECRET",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "LLM_MODEL",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "LLM_OUTPUT_PRICE_PER_MILLION",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "MONTHLY_AI_BUDGET_USD",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "OPENAI_API_KEY",
+      "visibility": "SERVER_SECRET",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "OPENAI_EXTRACTION_MODEL",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "OPENAI_MODEL_PRICING_JSON",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "OPENAI_RELEVANCE_MODEL",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "OPERATIONS_DB_PATH",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "PAID_PROCESSING_APPROVED",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "PILOT_DB_PATH",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "PILOT_ID",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "PILOT_MAX_ESTIMATED_SPEND",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "PILOT_MAX_LLM_CALLS",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "PILOT_MAX_SOURCE_ITEMS",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "PILOT_OTHER_COST",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "PORT",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "REDDIT_ACCESS_APPROVED",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "REDDIT_ACCESS_TOKEN",
+      "visibility": "SERVER_SECRET",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "REDDIT_COMMENTS_PER_POST",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "REDDIT_LISTING_LIMIT",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "REDDIT_MAX_API_REQUESTS",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "REDDIT_MAX_PAGES_PER_LANE",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "REDDIT_PILOT_CONFIG",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "REDDIT_REQUEST_DELAY_MS",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "REDDIT_SUBREDDITS",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "REDDIT_USER_AGENT",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "SCAN_INTERVAL_MINUTES",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "SCHEDULED_SOURCES",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "SCHEDULER_ENABLED",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "SOURCE_MODE",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "TWITCH_ACCESS_APPROVED",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "TWITCH_CLIENT_ID",
+      "visibility": "SERVER_SECRET",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "TWITCH_CLIENT_SECRET",
+      "visibility": "SERVER_SECRET",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "TWITCH_MAX_STREAMS",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "TWITCH_PILOT_MINUTES",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "TWITCH_REDIRECT_URI",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "TWITCH_REFRESH_TOKEN",
+      "visibility": "SERVER_SECRET",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "TWITCH_REPORT_PATH",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "TWITCH_USER_ACCESS_TOKEN",
+      "visibility": "SERVER_SECRET",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "TYPESAFE_API_KEY",
+      "visibility": "SERVER_SECRET",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_ADMIN_EMAIL",
+      "visibility": "SERVER_ONLY",
+      "required": "OWNER_SETUP",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_ADMIN_HANDLE",
+      "visibility": "SERVER_ONLY",
+      "required": "OWNER_SETUP",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_ADMIN_PASSWORD",
+      "visibility": "SERVER_SECRET",
+      "required": "OWNER_SETUP",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_ANALYTICS_ENABLED",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_AUTOMATIC_PUBLICATION",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_BACKUP_ENCRYPTION_KEY",
+      "visibility": "SERVER_SECRET",
+      "required": "OWNER_SETUP",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_DATA_ROOT",
+      "visibility": "SERVER_ONLY",
+      "required": "OWNER_SETUP",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_DEPLOYMENT_AUTHORIZED",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_EMAIL_ENABLED",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_ENV",
+      "visibility": "SERVER_ONLY",
+      "required": "OWNER_SETUP",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_LEGAL_APPROVED",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_LIVE_ENABLED",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_OPERATOR_RUNTIME",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_ORIGIN",
+      "visibility": "SERVER_ONLY",
+      "required": "OWNER_SETUP",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_PORT",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_PUBLISHING_ENABLED",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_TRUSTED_PROXY_IPS",
+      "visibility": "SERVER_ONLY",
+      "required": "OWNER_SETUP",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "WORKER_INTERVAL_MS",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "YOUTUBE_ACCESS_APPROVED",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "YOUTUBE_ACCESS_TOKEN",
+      "visibility": "SERVER_SECRET",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "YOUTUBE_API_KEY",
+      "visibility": "SERVER_SECRET",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "YOUTUBE_CHANNEL_IDS",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "YOUTUBE_DAILY_API_REQUEST_LIMIT",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "YOUTUBE_DAILY_SEARCH_LIMIT",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "YOUTUBE_MAX_REQUESTS_PER_SCAN",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "YOUTUBE_PILOT_CONFIG",
+      "visibility": "SERVER_ONLY",
+      "required": "OPTIONAL_OR_LEGACY_DISABLED",
+      "ownerSupplied": false,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_TERMS_VERSION",
+      "visibility": "PUBLIC_SAFE_SERVER_CONFIG",
+      "required": "OWNER_SETUP",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_PRIVACY_VERSION",
+      "visibility": "PUBLIC_SAFE_SERVER_CONFIG",
+      "required": "OWNER_SETUP",
+      "ownerSupplied": true,
+      "foundationRuntime": true,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_EMAIL_PROVIDER",
+      "visibility": "SERVER_ONLY",
+      "required": "OWNER_SELECTED_EMAIL_ADAPTER_CONFIGURATION",
+      "ownerSupplied": true,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_EMAIL_API_KEY",
+      "visibility": "SERVER_SECRET",
+      "required": "OWNER_SELECTED_EMAIL_ADAPTER_CONFIGURATION",
+      "ownerSupplied": true,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_EMAIL_FROM",
+      "visibility": "SERVER_ONLY",
+      "required": "OWNER_SELECTED_EMAIL_ADAPTER_CONFIGURATION",
+      "ownerSupplied": true,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    },
+    {
+      "name": "VW_SUPPORT_EMAIL",
+      "visibility": "SERVER_ONLY",
+      "required": "OWNER_SELECTED_EMAIL_ADAPTER_CONFIGURATION",
+      "ownerSupplied": true,
+      "foundationRuntime": false,
+      "consumerBundleAllowed": false
+    }
+  ]
+}

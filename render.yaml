@@ -1,0 +1,72 @@
+# Preparation only. Owner must connect a private Git repository and authorize billing.
+services:
+  - type: web
+    name: vice-wire-private-staging
+    runtime: node
+    plan: 1c-2g
+    numInstances: 1
+    autoDeployTrigger: off
+    buildCommand: node deployment/private-staging-build.ts
+    startCommand: node deployment/private-staging-entry.ts
+    healthCheckPath: /readyz
+    disk:
+      name: vice-wire-staging-data
+      mountPath: /var/data
+      sizeGB: 5
+    envVars:
+      - key: NODE_VERSION
+        value: 24.18.1
+      - key: NODE_ENV
+        value: production
+      - key: VW_ENV
+        value: staging
+      - key: VW_HOSTED_STAGING
+        value: 'true'
+      - key: VW_DEPLOYMENT_AUTHORIZED
+        value: 'true'
+      - key: VW_SINGLE_INSTANCE
+        value: 'true'
+      - key: WEB_CONCURRENCY
+        value: '1'
+      - key: VW_PERSISTENT_MOUNT
+        value: /var/data
+      - key: VW_DATA_ROOT
+        value: /var/data/vice-wire
+      - key: VW_EMAIL_PROVIDER
+        value: resend
+      - key: VW_EMAIL_ENABLED
+        value: 'true'
+      - key: VW_LEGAL_APPROVED
+        value: 'false'
+      - key: VW_STAGING_QA_REGISTRATION
+        value: 'true'
+      - key: VW_TERMS_VERSION
+        value: draft-staging-qa-v1
+      - key: VW_PRIVACY_VERSION
+        value: draft-staging-qa-v1
+      - key: VW_ANALYTICS_ENABLED
+        value: 'false'
+      - key: SCHEDULER_ENABLED
+        value: 'false'
+      - key: VW_LIVE_ENABLED
+        value: 'false'
+      - key: VW_PUBLISHING_ENABLED
+        value: 'false'
+      - key: VW_AUTOMATIC_PUBLICATION
+        value: 'false'
+      - key: VW_ORIGIN
+        sync: false
+      - key: VW_STAGING_ACCESS_USER
+        sync: false
+      - key: VW_STAGING_ACCESS_PASSWORD
+        sync: false
+      - key: VW_STAGING_QA_EMAILS
+        sync: false
+      - key: VW_EMAIL_API_KEY
+        sync: false
+      - key: VW_EMAIL_FROM
+        sync: false
+      - key: VW_RESEND_TEST_RECIPIENT
+        sync: false
+      - key: VW_BACKUP_ENCRYPTION_KEY
+        sync: false
